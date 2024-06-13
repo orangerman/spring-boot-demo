@@ -72,6 +72,7 @@
     <module>demo-pay</module>
       <module>demo-factory-bean</module>
     <module>demo-mock</module>
+      <module>demo-mapstruct</module>
   </modules>
   <packaging>pom</packaging>
 
